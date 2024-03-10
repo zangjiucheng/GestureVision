@@ -1,6 +1,8 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Gesture-Controlled Debian System with Google's MediaPipe and i3wm
 
-![Gesture-Controlled Debian System](https://example.com/your_image.png)
+![Gesture-Controlled Debian System](demo.png)
 
 ## Introduction
 
@@ -20,28 +22,56 @@ This project combines the power of Google's MediaPipe library for gesture recogn
 
 ## Getting Started
 
-To get started with Gesture-Controlled Debian System, follow these steps:
+To get started with Gesture-Controlled Debian System, ensure you have the following prerequisites:
 
-1. **Installation**: Clone the repository and install the necessary dependencies as outlined in the [installation guide](docs/installation.md).
+- Python 3 installed on your Debian-based Linux system.
+- i3wm window manager installed and configured.
+- A Debian-based Linux distribution (e.g., Debian, Ubuntu).
 
-2. **Configuration**: Customize gesture actions and preferences as needed by modifying the configuration files.
+### 1. Clone the Repository
 
-3. **Usage**: Refer to the [user manual](docs/user_manual.md) for instructions on using gesture control within the i3wm environment.
+```bash
+git clone https://github.com/your_username/Gesture-Controlled-Debian-System.git
+```
 
-## Contributing
+### 2. Install Dependencies
 
-We welcome contributions from the community! Whether it's adding new features, fixing bugs, or improving documentation, your contributions help make this project better for everyone. Please refer to the [contribution guidelines](CONTRIBUTING.md) for more information on how to get involved.
+Navigate to the project directory and install the required Python packages using pip:
+
+```bash
+cd GestureVision
+pip install -r requirements.txt
+```
+
+### 3. Run the Application
+
+Execute the main Python script to start the Gesture-Controlled Debian System:
+
+```bash
+python3 LinuxDebiani3main/main.py
+```
+
+This will launch the application, enabling gesture control within the i3wm environment. Follow the on-screen instructions or refer to the user manual for guidance on using gestures to interact with your Debian system.
+
+### 4. Customize Gesture Actions (Optional)
+
+If desired, you can customize gesture actions by modifying the 'Function.py' configuration file make sure it match the config with i3.
+
+### 5. Explore and Enjoy
+
+Experiment with different gestures and explore the capabilities of the Gesture-Controlled Debian System. We hope you find this innovative way of interacting with your desktop environment both intuitive and efficient!
+
+If you encounter any issues or have questions, please refer to the documentation or feel free to reach out to us for assistance. Happy gesturing!
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENCE).
 
 ## Acknowledgements
 
 - Our gratitude to the developers of Google's MediaPipe library and the i3wm window manager for their invaluable contributions to open-source software.
-- Special thanks to our contributors and users for their feedback and support in making this project possible.
 
 ## Contact
 
-For any questions, suggestions, or feedback, please feel free to [contact us](mailto:your_email@example.com).
+For any questions, suggestions, or feedback, please feel free to [contact me](mailto:jiucheng.zang@proton.me).
 
