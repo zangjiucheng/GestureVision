@@ -65,7 +65,7 @@ If you encounter any issues or have questions, please refer to the documentation
 
 ## License
 
-This project is licensed under the [MIT License](LICENCE).
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
