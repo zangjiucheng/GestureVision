@@ -2,7 +2,7 @@
 
 # Gesture-Controlled Debian System with Google's MediaPipe and i3wm
 
-![Gesture-Controlled Debian System](demo.png)
+https://raw.githubusercontent.com/zangjiucheng/GestureVision/main/demo.mp4
 
 ## Introduction
 
