@@ -6,7 +6,7 @@
 
 This project combines the power of Google's MediaPipe library for gesture recognition with the efficient window management of i3wm on Debian-based systems. With this system, users can interact with their desktop environment using intuitive hand gestures, offering a novel and efficient way to control their Debian system.
 
-[![Gesture-Controlled Debian System](https://res.cloudinary.com/marcomontalbano/image/upload/v1710108882/video_to_markdown/images/video--fe7ee2e6580ced31f4b1501092a31c11-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://raw.githubusercontent.com/zangjiucheng/GestureVision/main/demo.mp4 "Gesture-Controlled Debian System]")]
+[![Gesture-Controlled Debian System](https://res.cloudinary.com/marcomontalbano/image/upload/v1710108882/video_to_markdown/images/video--fe7ee2e6580ced31f4b1501092a31c11-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://raw.githubusercontent.com/zangjiucheng/GestureVision/main/demo.mp4 "Gesture-Controlled Debian System]")
 
 ## Features
 
